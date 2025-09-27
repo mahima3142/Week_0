@@ -1,4 +1,4 @@
-# sfal-vsd
+# week_0
 <details>
 	<summary>Day 0 - Tools Installation </summary>
 	
